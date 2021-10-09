@@ -36,7 +36,14 @@ Based on the following criteria:
 
 ## Summary
 
-First of all our watches product data set has a little percentige of participating Vine products which may skew a little bit the analysis. However altough the previous results suggest that there is not positive bias for Vine products because non-Vine products have a better 5 star rate, the following more detailed analysis using additional views and perspectives of the information show that overall a Vine product has a better STAR rating average and grouping the rated Star performance: 1) 0 to 3 Stars as **Poor-Medium** and 2) 4 to 5 Stars as **Good**. Vine products have better performance results than non-Vine products. 
+First of all, our watches product data set has a little percentage of participating Vine products which may skew a little bit the analysis. 
+
+However, altough the previous results suggest that there is not positive bias for Vine products because non-Vine products have greater products rated as 5 star, the following more detailed analysis which used additional views, slides, and different perspectives of the information show that overall a Vine product has a better STAR rating average and greater good reviews than Non-Vine using the following Star rating grouping criteria: 
+
+    1) 0 to 3 Stars as **Poor-Medium** and 
+    2) 4 to 5 Stars as **Good**. 
+
+Then, Vine products have better performance results than non-Vine products. Refer below results to support our conclusion:  
 
 ### Star Rating average
 
